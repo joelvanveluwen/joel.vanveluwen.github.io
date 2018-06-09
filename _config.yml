@@ -103,7 +103,7 @@ author:
   name             : "Joel Van Veluwen"
   avatar           : "/assets/avatar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data science and analytics professional working at LinkedIn."
-  location         : "Singapore mostly, Sydney sometimes."
+  location         : "Singapore."
   email            : "joel.vanveluwen@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
