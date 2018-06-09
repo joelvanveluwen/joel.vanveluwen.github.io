@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Joel Van Veluwen"
-  avatar           : "https://media.licdn.com/dms/image/C4D03AQGJxj91yLTM7w/profile-displayphoto-shrink_200_200/0?e=1533772800&v=beta&t=0HpkQT8_eCYfEh-yrfSIQaN9Nnk--DlL9odb5W0RNOk" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/avatar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data science and analytics at LinkedIn."
   location         : "Singapore mostly, Sydney sometimes."
   email            : "joel.vanveluwen@gmail.com"
