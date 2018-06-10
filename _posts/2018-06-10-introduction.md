@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "A blog... in 2018?"
 date:   2018-05-10 16:16:01 -0600
 categories: intro
