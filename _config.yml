@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joel's Blog"
+title                    : "TQDM."
 title_separator          : "-"
 name                     : "Joel Van Veluwen"
 description              : "A website."
@@ -101,9 +101,9 @@ analytics:
 # Site Author
 author:
   name             : "Joel Van Veluwen"
-  avatar           : "https://media.licdn.com/dms/image/C4D03AQGJxj91yLTM7w/profile-displayphoto-shrink_200_200/0?e=1533772800&v=beta&t=0HpkQT8_eCYfEh-yrfSIQaN9Nnk--DlL9odb5W0RNOk" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data science and analytics at LinkedIn."
-  location         : "Singapore mostly, Sydney sometimes."
+  avatar           : "/assets/avatar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Data science and analytics professional working at LinkedIn."
+  location         : "Singapore."
   email            : "joel.vanveluwen@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -113,11 +113,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "joelvanveluwen"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "vanveluwen"
   lastfm           :
   linkedin         : "joelvanveluwen" # (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
